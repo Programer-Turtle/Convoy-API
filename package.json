@@ -1,0 +1,17 @@
+{
+  "name": "conoy-api",
+  "version": "0.0.1",
+  "description": "The backend API for Convoy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "programer-turtle",
+  "license": "None",
+  "dependencies": {
+    "argon2": "^0.41.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "uuid": "^11.0.5"
+  }
+}
